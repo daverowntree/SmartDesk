@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SmartDesk")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Librarian/SmartDesk.pretty")(options "")(descr ""))
+  (lib (name "Panelization")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Librarian/Panelization.pretty")(options "")(descr ""))
+)

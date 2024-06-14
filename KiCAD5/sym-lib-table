@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name Panelisation)(type Legacy)(uri ${KIPRJMOD}/KiCAD_Librarian/Panelisation.lib)(options "")(descr ""))
+  (lib (name RAC03-05SK)(type Legacy)(uri ${KIPRJMOD}/KiCAD_Librarian/RAC03-05SK.lib)(options "")(descr ""))
+  (lib (name CreativeOfficeEnvLogo)(type Legacy)(uri ${KIPRJMOD}/KiCAD_Librarian/CreativeOfficeEnvLogo.lib)(options "")(descr ""))
+  (lib (name AVR-DA)(type Legacy)(uri ${KIPRJMOD}/KiCAD_Librarian/AVR-DA.lib)(options "")(descr ""))
+  (lib (name te_OJE-SH-105HM,000)(type Legacy)(uri "${KIPRJMOD}/KiCAD_Librarian/te_OJE-SH-105HM,000 .lib")(options "")(descr ""))
+  (lib (name FOD817S)(type Legacy)(uri ${KIPRJMOD}/KiCAD_Librarian/FOD817S.lib)(options "")(descr ""))
+  (lib (name MOC3020)(type Legacy)(uri ${KIPRJMOD}/KiCAD_Librarian/MOC3020.lib)(options "")(descr ""))
+  (lib (name TouchSlider)(type Legacy)(uri ${KIPRJMOD}/KiCAD_Librarian/TouchSlider.lib)(options "")(descr ""))
+  (lib (name IS31FL3728-QFLS2-TR)(type Legacy)(uri ${KIPRJMOD}/KiCAD_Librarian/IS31FL3728-QFLS2-TR.lib)(options "")(descr ""))
+  (lib (name SmartDesk_v1p0-rescue)(type Legacy)(uri ${KIPRJMOD}/SmartDesk_v1p0-rescue.lib)(options "")(descr ""))
+  (lib (name ESP32-WROOM-32)(type Legacy)(uri ${KIPRJMOD}/KiCAD_Librarian/ESP32-WROOM-32.lib)(options "")(descr ""))
+)
